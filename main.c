@@ -34,7 +34,7 @@ int i;
 
 // Sezine main
 
-void main(void)
+int main(void)
 
 {
 
@@ -65,7 +65,7 @@ void main(void)
    
 }
 
-void inserisci_materia(posizione_materia)
+void inserisci_materia(int posizione_materia)
 {
     int codice = 0;   
     printf("\n inserisci codice materia: ");

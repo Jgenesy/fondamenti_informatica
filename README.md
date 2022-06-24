@@ -1,4 +1,4 @@
-# fontamenti_informatica
+# fondamenti_informatica
 
 Programma in linguaggio C, di tipo console, con il seguente comportamento.
 MENU PRINCIPALE
